@@ -30,7 +30,7 @@ int main(int argc, char *argv[]) {
 		}
 		if (count == 0)
 		{
-			printf("%d ", i);
+			printf(" %d ", i);
 		}
 		count = 0;
 	}
