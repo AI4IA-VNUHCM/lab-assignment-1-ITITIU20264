@@ -20,7 +20,7 @@ int main(int argc, char *argv[]) {
 	//Your codes here
 	for (i = 2; i < testcase; i++)
 	{
-		for (j = 2; j < i/2; j++)
+		for (j = 2; j < i; j++)
 		{
 			if (i % j == 0)
 			{
